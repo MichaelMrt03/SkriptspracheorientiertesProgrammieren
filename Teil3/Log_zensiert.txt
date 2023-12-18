@@ -1,0 +1,10 @@
+01.01.2019 16:05:06 App. 2435  Ziel xxxx.xxxx   245s
+01.01.2019 16:05:32 App. 3171  Ziel xxxx.xxxx      184s
+01.01.2019 16:06:13 App. 655   Ziel xxxx.xxxx     246s
+01.01.2019 16:08:54 App. 2121  Ziel xxxx.xxxx     561s
+01.01.2019 16:11:03 App. 4883  Ziel xxxx.xxxx   380s
+01.01.2019 16:11:21 App. 5794  Ziel xxxx.xxxx    119s
+01.01.2019 16:12:11 App. 2435  Ziel xxxx.xxxx   491s
+01.01.2019 16:16:29 App. 3931  Ziel xxxx.xxxx     804s
+01.01.2019 16:22:06 App. 655   Ziel xxxx.xxxx    255s
+01.01.2019 16:22:37 App. 4546  Ziel xxxx.xxxx     312s

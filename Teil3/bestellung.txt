@@ -1,0 +1,6 @@
+Anzahl: 15, Einzelpreis: 12.99
+Anzahl: 20, Einzelpreis: 5.75
+Anzahl: 8, Einzelpreis: 9.99
+Anzahl: 40, Einzelpreis: 3.50
+Anzahl: 10, Einzelpreis: 15.25
+Anzahl: 25, Einzelpreis: 8.60

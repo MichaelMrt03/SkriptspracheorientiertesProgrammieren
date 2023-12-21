@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
-width=1
-height=1
+
 grad = 0
 def drehen_links():
     global grad

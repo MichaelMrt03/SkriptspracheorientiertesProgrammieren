@@ -1,8 +1,7 @@
 import re
 #Ein Zeichen, das kein Buchstabe ist
 daten ="!"
-muster = r"^[^a-z]$"
-
+muster = r"^[^A-z]$"
 ergebnis = re.search(muster,daten)
 if ergebnis:
     print("gefunden")
